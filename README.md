@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Full Stack and Machine Learning**
 - 🤝 Open to collaborating on **interesting open-source or impactful projects**
 - 🌏 Pronouns: **She/Her**
-- 🔗 LinkedIn: [link](https://www.linkedin.com/in/richaagrawalla/)
+- 🔗 [Visit my LinkedIn](https://www.linkedin.com/in/richaagrawalla/)
 - ✉️ E Mail:  [richa05861@gmail.com](mailto:richa05861@gmail.com)
 ---
 
